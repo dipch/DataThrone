@@ -5,7 +5,7 @@
 * Dataset 1: insight_001.csv
 * Dataset 2: insight_002.xlsx
 
-Contributors:https://github.com/dipch
+## Contributors:
 
 * [DhusorAust](https://github.com/DhusorAust)
 * Labib Abdullah
